@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
         // added new branch name : final_app
         // no changes
         // change into master
-        // changes for saturdays event
+
 
         // testing for saturdays bitbucket / github presentation
 
